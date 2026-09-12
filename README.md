@@ -8,3 +8,6 @@ Plataforma inteligente para ahorrar, comparar y proteger el dinero de los usuari
 
 Construir una plataforma global que ayude a las personas a ahorrar,
 comparar, detectar problemas y tomar mejores decisiones sobre su dinero.
+## Estado
+
+V1 en construcción.
